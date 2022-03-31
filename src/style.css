@@ -1,0 +1,29 @@
+.red{
+  color: rgb(150, 61, 61);
+}
+.title{
+  font-size: 4rem;
+}
+
+.App{
+  width: 85%;
+  margin: 30px auto;
+}
+.header{
+  margin: 60px 0 17px 0px;
+  font-size: 4rem;
+}
+.spinner-grow{
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  width: 5rem !important;
+  height: 5rem !important;
+}
+svg{
+  width: 57px;
+  font-size: 20px;
+  height: 90px;
+  margin-left: 15px;
+  fill: crimson;
+}
